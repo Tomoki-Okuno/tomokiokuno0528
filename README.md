@@ -1,5 +1,5 @@
 ### Hi there! I'm Tomoki Okuno
-🌱 I’m currently an MS Biostatistics student at UCLA and a graduate student researcher at David Geffen School of Medicine at UCLA.
+🌱 I’m currently an MS Biostatistics student at UCLA and a graduate student researcher at David Geffen School of Medicine at UCLA. I will transfer into the PhD program this September.
 
 This is my website: https://tomoki-okuno.com/
 
