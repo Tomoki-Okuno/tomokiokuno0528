@@ -11,7 +11,7 @@ Thank you for visiting me✨
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Tomoki-Okuno&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomokiokuno0528&layout=compact&theme=tokyonight)](https://github.com/Tomoki-Okuno/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoki-Okuno&layout=compact&theme=tokyonight)](https://github.com/Tomoki-Okuno/)
 
 
 
