@@ -8,10 +8,10 @@ Thank you for visiting me✨
 ![](https://komarev.com/ghpvc/?username=tomokiokuno0528)
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=tomokiokuno0528&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Tomoki-Okuno&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomokiokuno0528&layout=compact&theme=tokyonight)](https://github.com/tomokiokuno0528/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomokiokuno0528&layout=compact&theme=tokyonight)](https://github.com/Tomoki-Okuno/)
 
 
 
